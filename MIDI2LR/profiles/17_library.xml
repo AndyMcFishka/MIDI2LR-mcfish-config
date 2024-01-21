@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="20" command_string="profile10"/>
+  <setting channel="11" note="19" command_string="profile9"/>
+  <setting channel="11" note="18" command_string="profile8"/>
+  <setting channel="11" note="17" command_string="profile7"/>
+  <setting channel="11" note="16" command_string="profile6"/>
+  <setting channel="11" note="12" command_string="profile5"/>
+  <setting channel="11" note="11" command_string="profile4"/>
+  <setting channel="11" note="10" command_string="profile3"/>
+  <setting channel="11" note="9" command_string="profile2"/>
+  <setting channel="11" note="8" command_string="profile1"/>
+  <setting channel="11" controller="9" command_string="profile1"/>
+  <setting channel="11" note="22" command_string="ShowClipping"/>
+  <setting channel="11" note="15" command_string="Redo"/>
+  <setting channel="11" note="39" command_string="Redo"/>
+  <setting channel="11" note="14" command_string="Undo"/>
+  <setting channel="11" note="38" command_string="Undo"/>
+  <setting channel="11" controller="11" command_string="NextPrev"/>
+  <setting channel="11" note="36" command_string="ToggleYellow"/>
+  <setting channel="11" note="35" command_string="TogglePurple"/>
+  <setting channel="11" note="32" command_string="ToggleRed"/>
+  <setting channel="11" note="33" command_string="ToggleGreen"/>
+  <setting channel="11" note="34" command_string="ToggleBlue"/>
+  <setting channel="11" note="37" command_string="Reject"/>
+  <setting channel="11" controller="17" command_string="IncreaseDecreaseRating"/>
+  <setting channel="11" controller="18" command_string="ZoomInOut"/>
+  <setting channel="11" note="31" command_string="ToggleZoomOffOn"/>
+  <setting channel="11" note="46" command_string="ToggleLoupe"/>
+  <setting channel="11" note="47" command_string="ShoFullHidePanels"/>
+  <setting channel="11" note="24" command_string="SwToMlibrary"/>
+  <setting channel="11" note="23" command_string="Key1"/>
+  <setting channel="11" controller="10" command_string="Unassigned"/>
+  <setting channel="11" note="45" command_string="Unassigned"/>
+  <setting channel="11" controller="1" command_string="Unassigned"/>
+</settings>

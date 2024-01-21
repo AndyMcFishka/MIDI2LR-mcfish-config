@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="23" command_string="Key1"/>
+  <setting channel="11" note="14" command_string="Undo"/>
+  <setting channel="11" note="15" command_string="Redo"/>
+  <setting channel="11" note="22" command_string="ShowClipping"/>
+  <setting channel="11" controller="1" command_string="Texture"/>
+  <setting channel="11" controller="2" command_string="Clarity"/>
+  <setting channel="11" controller="3" command_string="Dehaze"/>
+  <setting channel="11" controller="4" command_string="Vibrance"/>
+  <setting channel="11" controller="5" command_string="Saturation"/>
+  <setting channel="11" note="0" command_string="ResetTexture"/>
+  <setting channel="11" note="1" command_string="ResetClarity"/>
+  <setting channel="11" note="2" command_string="ResetDehaze"/>
+  <setting channel="11" note="3" command_string="ResetVibrance"/>
+  <setting channel="11" note="4" command_string="ResetSaturation"/>
+  <setting channel="11" controller="6" command_string="Sharpness"/>
+  <setting channel="11" controller="7" command_string="SharpenRadius"/>
+  <setting channel="11" controller="8" command_string="SharpenDetail"/>
+  <setting channel="11" note="5" command_string="ResetSharpness"/>
+  <setting channel="11" note="6" command_string="ResetSharpenRadius"/>
+  <setting channel="11" note="7" command_string="ResetSharpenDetail"/>
+  <setting channel="11" note="8" command_string="profile1"/>
+  <setting channel="11" note="9" command_string="profile2"/>
+  <setting channel="11" note="10" command_string="profile3"/>
+  <setting channel="11" note="11" command_string="profile4"/>
+  <setting channel="11" note="12" command_string="profile5"/>
+  <setting channel="11" note="16" command_string="profile6"/>
+  <setting channel="11" note="17" command_string="profile7"/>
+  <setting channel="11" note="18" command_string="profile8"/>
+  <setting channel="11" note="19" command_string="profile9"/>
+  <setting channel="11" note="20" command_string="profile10"/>
+  <setting channel="11" controller="10" command_string="profile17"/>
+</settings>
